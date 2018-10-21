@@ -4,7 +4,7 @@ created_by: Ryan Dahl
 display_name: Node.js
 github_url: https://github.com/nodejs
 logo: nodejs.png
-released: May 27, 2009
+released: oktober 22, 2018
 short_description: Node.js is a tool for executing JavaScript in a variety of environments.
 topic: nodejs
 url: https://nodejs.org/en/
